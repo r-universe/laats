@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PrivateLR"]
+	path = PrivateLR
+	url = https://github.com/cran/PrivateLR
+	shallow = true
+	registered = true
